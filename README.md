@@ -1,5 +1,5 @@
 
-# cmdSearchTrash
+# cmdNPCCreator
 If you need Support join on this Discord: https://discord.gg/5hHSBRHvJE
 Good Performance:
 
